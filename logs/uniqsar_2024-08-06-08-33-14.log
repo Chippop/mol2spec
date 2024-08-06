@@ -1,0 +1,2 @@
+2024-08-06 08:33:14 | module/unimol_tools/weights/weighthub.py | 17 | INFO | Uni-Mol Tools | Weights will be downloaded to default directory: /vepfs/fs_users/yftc/code/mol2spec_git/module/unimol_tools/weights
+2024-08-06 08:33:18 | module/unimol_tools/models/unimol.py | 120 | INFO | Uni-Mol Tools | Loading pretrained weights from /vepfs/fs_users/yftc/code/mol2spec_git/module/unimol_tools/weights/mol_pre_all_h_220816.pt
